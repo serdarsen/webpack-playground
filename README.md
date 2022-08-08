@@ -7,4 +7,4 @@ Webpack Playground
 run `npm start`, browse `localhost:4000`
 
 ## Reference
-- [Jest](https://jestjs.io/)
+- [Webpack](https://webpack.js.org/)
